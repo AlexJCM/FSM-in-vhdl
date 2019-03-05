@@ -1,5 +1,0 @@
-xst -intstyle ise -ifn "C:/Users/Dell/Documents/ProyectosVHDL/2019/VendingMachine/VMachine/MaquinaExpendedora.xst" -ofn "C:/Users/Dell/Documents/ProyectosVHDL/2019/VendingMachine/VMachine/MaquinaExpendedora.syr" 
-ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1500-fg320-4 MaquinaExpendedora.ngc MaquinaExpendedora.ngd  
-map -intstyle ise -p xc3s1500-fg320-4 -cm area -ir off -pr off -c 100 -o MaquinaExpendedora_map.ncd MaquinaExpendedora.ngd MaquinaExpendedora.pcf 
-par -w -intstyle ise -ol high -t 1 MaquinaExpendedora_map.ncd MaquinaExpendedora.ncd MaquinaExpendedora.pcf 
-trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml MaquinaExpendedora.twx MaquinaExpendedora.ncd -o MaquinaExpendedora.twr MaquinaExpendedora.pcf 

@@ -1,5 +1,0 @@
-set -tmpdir "C:/Users/Dell/Documents/ProyectosVHDL/2019/VendingMachine/VMachine/xst/projnav.tmp"
-set -xsthdpdir "C:/Users/Dell/Documents/ProyectosVHDL/2019/VendingMachine/VMachine/xst"
-elaborate
--ifn MaquinaExpendedora.prj
--ifmt mixed
