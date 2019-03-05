@@ -1,0 +1,28 @@
+Command line:
+   Test_MaquinaExpendedora_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64724
+
+Tue Mar 05 00:57:53 2019
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5335.61 Meg
+
+ Total Signals          : 18
+ Total Nets             : 10
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 5
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 371
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 5178.32 Meg
+
+Tue Mar 05 00:59:10 2019
+

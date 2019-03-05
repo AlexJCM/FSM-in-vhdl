@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Dell/Documents/ProyectosVHDL/2019/VendingMachineTRESPROCESO/VMachine/Test_MaquinaExpendedora_isim_beh.exe" -prj "C:/Users/Dell/Documents/ProyectosVHDL/2019/VendingMachineTRESPROCESO/VMachine/Test_MaquinaExpendedora_beh.prj" "work.Test_MaquinaExpendedora" 
